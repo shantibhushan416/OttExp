@@ -1,0 +1,10 @@
+:root {
+  --primaryColor: #E50914;
+  --secondryColor: #B81D24;
+  --tertiaryColor: #221F1F;
+  --cardColor: #F5F5F1;
+}
+
+.App {
+  height: 100vh;
+}
